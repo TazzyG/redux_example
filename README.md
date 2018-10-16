@@ -1,4 +1,5 @@
 # webpack-4-quickstart
+
 > Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
 [![Donate](https://img.shields.io/badge/donate-patreon-orange.svg)](https://www.patreon.com/valentinogagliardi)
@@ -17,3 +18,5 @@ Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@v
 ## License
 
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+TUTORIAL LINK https://www.valentinog.com/blog/react-redux-tutorial-beginners/#React_Redux_tutorial_who_this_guide_is_for
